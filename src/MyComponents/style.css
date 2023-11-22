@@ -7,6 +7,6 @@ h1{
     left: 0;
     right: 0;
     height: 10px;
-    background: var(--red);
+    background: red;
     transform-origin: 0%;
   }
