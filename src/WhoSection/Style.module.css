@@ -1,0 +1,103 @@
+.section_who{
+    background-image:linear-gradient(rgba(0,0,0,.3),rgba(0,0,0,.3)),url(https://assets-global.website-files.com/64ede0a591d8114fdaa0ae7f/64f773e883fc6a9a009046b7_3764bd983328c1863956ea299a9bbd9a.webp);
+    background-position:0 0,50% 0;
+    background-size:auto,cover;
+    padding-top:72px;
+    padding-bottom:72px
+}
+.padding-global-5{
+    padding-left:2.5rem;
+    padding-right:2.5rem
+}
+.container-large.extra-rem{
+    max-width:73.1rem
+}
+.who_card-wrapper{
+    grid-column-gap:48px;
+    grid-row-gap:48px;
+    background-color:#141414;
+    border:2px solid #434343;
+    border-radius:15px;
+    flex-direction:column;
+    padding:56px 54px 56px 42.5px;
+    display:flex;
+    position:relative;
+    overflow:hidden
+}
+.who_heading-wrapper{
+    position:relative
+}
+.who_heading{
+    color:#e7e7e7;
+    text-align:center;
+    margin-top:0;
+    font-family:Poppins,sans-serif;
+    font-size:38px;
+    line-height:59.5px
+}
+.image-5{
+    width:250px;
+    position:absolute;
+    top:auto;
+    bottom:-62%;
+    left:auto;
+    right:32%
+}
+.who_card-content{
+    grid-column-gap:16px;
+    grid-row-gap:16px;
+    grid-template-rows:auto;
+    grid-template-columns:330px 315px 343px;
+    grid-auto-columns:1fr;
+    justify-content:space-between;
+    display:grid
+}
+.who_card{
+    grid-column-gap:11px;
+    grid-row-gap:11px;
+    display:flex
+}
+.html-embed-25{
+    justify-content:center;
+    align-self:flex-start;
+    align-items:flex-start;
+    display:flex
+}
+.who_card-point{
+    grid-column-gap:11px;
+    grid-row-gap:11px;
+    flex-direction:column;
+    display:flex
+}
+.point_heading-2{
+    color:#fff;
+    margin-top:0;
+    margin-bottom:0;
+    font-family:Inter,sans-serif;
+    font-size:24px;
+    line-height:28px
+}
+.point_para-2{
+    color:#e1e1e1;
+    margin-bottom:0;
+    font-family:Inter,sans-serif;
+    font-size:18px;
+    font-weight:400;
+    line-height:26px
+}
+.para-bold{
+    color:#fff;
+    font-weight:700
+}
+.div-block-2{
+    width:700px;
+    height:100px;
+    filter:blur(11rem);
+    background-color:rgba(217,217,217,.85);
+    border-radius:8rem;
+    position:absolute;
+    top:auto;
+    bottom:-12%;
+    left:27%;
+    right:auto
+}

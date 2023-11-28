@@ -1,8 +1,8 @@
 import React from 'react'
-import { useEffect, useState } from 'react';
-import jQuery from 'jquery';
-import $ from 'jquery';
-import './style.css';
+// import { useEffect, useState } from 'react';
+// import jQuery from 'jquery';
+// import $ from 'jquery';
+// import './style.css';
 
 const Header = () => {
    

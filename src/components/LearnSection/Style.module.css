@@ -1,0 +1,259 @@
+.section_learn-2{
+    background-image:url(https://assets-global.website-files.com/64ede0a591d8114fdaa0ae7f/64f7703d9b2b60a6b46a96d2_bg-pattern.svg);
+    background-position:0 0;
+    background-repeat:repeat-y;
+    background-size:contain;
+    padding-top:281px;
+    padding-bottom:72px
+}
+
+.padding-global-5{
+    padding-left:2.5rem;
+    padding-right:2.5rem
+}
+
+.container-large{
+    width:100%;
+    max-width:68.5rem;
+    margin-left:auto;
+    margin-right:auto
+}
+.container-large.footer-wrapper{
+    flex-direction:column;
+    align-items:center;
+    display:flex
+}
+.container-large.extra-rem{
+    max-width:73.1rem
+}
+.learn_heading-wrapper-2{
+    justify-content:center;
+    margin-bottom:80px;
+    display:flex;
+    position:relative
+}
+
+.learn_heading-2{
+    max-width:365px;
+    color:#000;
+    text-align:center;
+    -webkit-text-fill-color:transparent;
+    background-color:#000;
+    background-image:linear-gradient(119deg,rgba(255,255,255,.3) 30%,transparent);
+    -webkit-background-clip:text;
+    background-clip:text;
+    font-family:Poppins,sans-serif;
+    font-size:38px;
+    font-weight:700;
+    line-height:50px
+}
+
+.image-3{
+    width:250px;
+    position:absolute;
+    top:auto;
+    bottom:-50%;
+    left:auto;
+    right:12%
+}
+
+.learn_card-wrapper-2{
+    grid-column-gap:56px;
+    grid-row-gap:56px;
+    flex-direction:column;
+    display:flex;
+    position:relative
+}
+
+
+
+.div-block-73{
+    width:3px;
+    height:100%;
+    background-color:rgba(0,0,0,.5);
+    justify-content:center;
+    align-items:flex-start;
+    margin-left:auto;
+    margin-right:auto;
+    display:flex;
+    position:absolute;
+    left:0;
+    right:0
+}
+
+.div-block-76{
+    width:100%;
+    height:6%;
+    background-color:#ecd996
+}
+.div-block-69{
+    width:26px;
+    max-width:26px;
+    background-color:#fff;
+    border-radius:100px;
+    justify-content:center;
+    align-items:center;
+    margin-left:auto;
+    margin-right:auto;
+    padding-top:8px;
+    padding-bottom:8px;
+    display:flex;
+    position:absolute;
+    top:0%
+}
+.div-block-69._2{
+    top:10%
+}
+.div-block-69._5{
+    top:41%
+}
+.div-block-69._4{
+    top:30.5%
+}
+.div-block-69._10{
+    top:91.5%
+}
+.div-block-69._8{
+    top:71%
+}
+.div-block-69._9{
+    top:81.5%
+}
+.div-block-69._3{
+    top:20%
+}
+.div-block-69._6{
+    top:51%
+}
+.div-block-69._1{
+    top:0%
+}
+.div-block-69._7{
+    top:61%
+}
+.div-block-70{
+    width:26px;
+    height:26px;
+    background-color:#7f7f7f;
+    border-radius:100px
+}
+.div-block-70._1{
+    background-color:#ecd996
+}
+
+.learning_card.justify-right{
+    grid-column-gap:90px;
+    grid-row-gap:90px;
+    grid-column-gap:90px;
+    grid-row-gap:90px;
+    grid-template-rows:auto;
+    grid-template-columns:1fr 1fr;
+    grid-auto-columns:1fr;
+    justify-content:flex-end;
+    display:grid
+}
+
+.image-36{
+    width:375px;
+    height:238px;
+    background-image:url(https://assets-global.website-files.com/64ede0a591d8114fdaa0ae7f/64f773e883fc6a9a0090466e_Rectangle%2039975%20\(1\).webp);
+    background-position:0%;
+    background-size:cover;
+    border-radius:10px
+}
+
+.image-36._7{
+    background-image:url(https://assets-global.website-files.com/64ede0a591d8114fdaa0ae7f/64f773e883fc6a9a00904693_d2a09d74bd3bc9afd73733fb1ff86b7f.webp);
+    background-position:50%
+}
+.image-36._8{
+    background-image:url(https://assets-global.website-files.com/64ede0a591d8114fdaa0ae7f/64f773e883fc6a9a0090469c_c0720df02338c2626ed0077c6d7bb137.webp);
+    background-position:50%
+}
+.image-36._9{
+    background-image:url(https://assets-global.website-files.com/64ede0a591d8114fdaa0ae7f/64f773e883fc6a9a009046a5_25c089629b01e23e77bfbe945d70a13b.webp);
+    background-position:50%
+}
+.image-36._3{
+    background-image:url(https://assets-global.website-files.com/64ede0a591d8114fdaa0ae7f/64f773e883fc6a9a00904672_11ec9c771c1b7475459d1216ccb1c5fc.webp);
+    background-position:50%
+}
+.image-36._10{
+    background-image:url(https://assets-global.website-files.com/64ede0a591d8114fdaa0ae7f/64f773e883fc6a9a009046ae_50269230fee6a9dff46f06b5f2f7cc80.webp)
+}
+.image-36._6{
+    background-image:url(https://assets-global.website-files.com/64ede0a591d8114fdaa0ae7f/64f773e883fc6a9a0090468a_747aa9c2830d357369aa56f550ff86bf.webp);
+    background-position:50%
+}
+.image-36._4{
+    background-image:url(https://assets-global.website-files.com/64ede0a591d8114fdaa0ae7f/64f773e883fc6a9a00904684_76b9bb5b2f970871437b32416c51fe12.webp)
+}
+.image-36._2{
+    background-image:url(https://assets-global.website-files.com/64ede0a591d8114fdaa0ae7f/64f773e883fc6a9a0090467b_18651532d3802cd76a3c552f2d12a3ad.webp);
+    background-position:50%
+}
+.image-36._5{
+    background-image:url(https://assets-global.website-files.com/64ede0a591d8114fdaa0ae7f/64f773e983fc6a9a009046f2_Asset-allocation.webp);
+    background-position:50%;
+    background-repeat:repeat
+}
+
+.learning_card-content-wrapper-2{
+    width:100%;
+    max-height:238px;
+    max-width:492px;
+    grid-column-gap:15px;
+    grid-row-gap:15px;
+    cursor:default;
+    background-color:#f5f5f5;
+    border:1px transparent;
+    border-radius:10px;
+    justify-content:center;
+    align-items:center;
+    padding:36px 28px;
+    transition:all .4s;
+    display:flex
+}
+.learning_card-content-wrapper-2:hover{
+    border-color:#bdbdbd
+}
+
+.learning_card-content{
+    grid-column-gap:8px;
+    grid-row-gap:8px;
+    flex-direction:column;
+    justify-content:center;
+    align-items:flex-start;
+    display:flex
+}
+.learning_card-content.text-align-right{
+    text-align:right;
+    align-items:flex-end
+}
+
+.time-text{
+    color:rgba(9,9,9,.5);
+    font-family:Inter,sans-serif;
+    font-size:16px;
+    font-weight:600
+}
+
+.learning_card-heading{
+    color:#1e1e1e;
+    white-space:nowrap;
+    margin-top:0;
+    margin-bottom:0;
+    font-family:Inter,sans-serif;
+    font-size:24px;
+    font-weight:700;
+    line-height:30px
+}
+
+
+.learning_card-para{
+    color:#282828;
+    font-family:Inter,sans-serif;
+    font-size:16px;
+    font-weight:400;
+    line-height:25px
+}
