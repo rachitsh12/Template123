@@ -1,7 +1,7 @@
 import React from 'react'
 import { motion, useScroll } from "framer-motion"
 
-import './style.css';
+// import './style.css';
 import { useEffect } from 'react';
 
  

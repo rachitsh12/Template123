@@ -1,6 +1,6 @@
 import React from 'react'
 import { useEffect } from 'react';
-import './style.css';
+// import './style.css';
 
 const PotentialSection = () => {
 
